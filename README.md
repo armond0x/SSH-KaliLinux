@@ -149,8 +149,8 @@ git clone https://github.com/mrx7014/SSH-KaliLinux;cd SSH-KaliLinux;python3 247.
 
 
 ### Contact US
-- Linktree: https://linktr.ee/mrx7014
-- Donate: https://bmc.link/mrx7014
+- Linktree: https://linktr.ee/armond0x
+- Donate: https://bmc.link/armond0x
 
 ____________
 
